@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vvJu1HU47buWGM1y2BwBWxWH/M5k/9s1uQT8VBc5qOlLYFaXgYW0cqHB/KvaYDEcySETkd7QV/WQPFkutEuyw==",
+  "success": true,
+  "projectFilePath": "D:\\MicroServices-Net\\CommentsService\\CommentsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FPT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
